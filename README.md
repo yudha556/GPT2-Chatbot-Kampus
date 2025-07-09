@@ -105,5 +105,5 @@ Proyek ini menggunakan lisensi MIT — bebas digunakan, dimodifikasi, dan diseba
 
 
 ```bash
-> <p align="center"><strong>📢 Jangan lupa ⭐ repo ini kalau bermanfaat, atau fork buat pengembangan lanjut!</strong></p>
+> 📢 Jangan lupa ⭐ repo ini kalau bermanfaat, atau fork buat pengembangan lanjut!
 ```
