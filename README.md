@@ -104,6 +104,6 @@ Content-Type: application/json
 Proyek ini menggunakan lisensi MIT — bebas digunakan, dimodifikasi, dan disebarkan, dengan tetap menyertakan kredit ke pembuat asli.
 
 
-```bash
+
 > 📢 Jangan lupa ⭐ repo ini kalau bermanfaat, atau fork buat pengembangan lanjut!
-```
+
