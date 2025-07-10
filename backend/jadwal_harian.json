@@ -1,0 +1,16 @@
+{
+  "Senin": [
+    { "matkul": "Pemrograman Web", "jam": "08:00 - 10:00", "ruang": "Lab A" },
+    { "matkul": "Pancasila", "jam": "13:00 - 15:00", "ruang": "Ruang 201" }
+  ],
+  "Selasa": [
+    { "matkul": "Basis Data", "jam": "09:00 - 11:00", "ruang": "Lab B" }
+  ],
+  "Rabu": [],
+  "Kamis": [
+    { "matkul": "Algoritma", "jam": "07:00 - 09:00", "ruang": "Ruang 102" }
+  ],
+  "Jumat": [
+    { "matkul": "Kewirausahaan", "jam": "10:00 - 12:00", "ruang": "Ruang 305" }
+  ]
+}
