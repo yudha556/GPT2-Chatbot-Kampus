@@ -5,6 +5,10 @@ Chatbot berbasis GPT-2, intinya model dasarnya pake GPT2 yang perlu dilatih ulan
 ---
 
 ## untuk dataset sudah di push di huggingface gunakan link berikut jika ingin pasang model hasil trainingnya
+> Yudha556/kampus-gpt2-models
+> Yudha556/GPT2-Chatbot-Kampus
+
+gunakan untuk latihan AI nya bang
 
 
 ## 🚀 Fitur Utama
@@ -108,6 +112,7 @@ Content-Type: application/json
 
 ## 📄 Lisensi
 Proyek ini menggunakan lisensi MIT — bebas digunakan, dimodifikasi, dan disebarkan, dengan tetap menyertakan kredit ke pembuat asli.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 
 
